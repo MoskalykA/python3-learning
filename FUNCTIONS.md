@@ -11,3 +11,9 @@ input('hello')
 ```python
 int('1')
 ```
+
+## Float
+### Float is used to transform the type of a value into an float type.
+```python
+float('1')
+```
